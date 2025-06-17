@@ -1,0 +1,14 @@
+# Documentation
+
+Analysis were conducted with Jupyter notebooks. 
+
+
+Three analysis and reports:
+    
+* scr/report_Oct_24_2024.ipynb: The first analysis for clustering 110 samples. 
+
+* scr/report_Nov_10_2024.ipynb: updates and corrections to the first analysis. 
+
+* scr/report_Mar_01_2025.ipynb: The replication analysis on the second batch of 205 samples. 
+
+

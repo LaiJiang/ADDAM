@@ -1,0 +1,449 @@
+Record ID (XX-XXX-XX),Visit Date ,Subject's Date of Birth,Subject's Sex at Birth,Date of diabetes diagnosis,Are any of the subject's siblings diagnosed with diabetes (any type)?,Is the subject's mother diagnosed with diabetes (any type)?,Is the subject's father diagnosed with diabetes (any type)?,"If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Paternal grandfather)","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Paternal grandmother)","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Paternal uncle (s))","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Paternal aunt (s))","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Maternal grandfather)","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Maternal grandmother)","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Maternal uncle (s))","If a first degree relative of the subject has diabetes (mother, father or sibling), is there diabetes in any of the following family members? (check all that apply) (choice=Maternal aunt (s))",Birth place of paternal grandfather (country),Birth place of paternal grandmother (country),Birth place of maternal grandfather (country),Birth place of maternal grandmother (country),"Endocrine condition(s) apart from diabetes, please specify","Skin condition(s), please specify","Other medical condition(s) not listed above, please specify",Subject's height (cm),Subject's weight (kg),Current insulin total daily dose (number of units),Average of A1c results
+01-001-01,9/24/2019,10/1/2007,,9/1/2017,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Checked,Canada,Canada,Canada,Netherlands,,,,158,60.5,68.5,8
+01-001-04,9/24/2019,12/1/2008,,9/1/2015,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Checked,Canada,Canada,Canada,Netherlands,,,,148.8,49.7,54.5,8.133333333
+01-002-01,10/1/2019,11/1/2014,,8/1/2016,,No,Yes,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,114.5,20.5,18,7.833333333
+01-002-03,10/1/2019,5/1/1989,,1/1/2003,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,hypothyroidism,,,174,95,55,0
+01-003-01,10/1/2019,11/1/2006,,12/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Germany,Canada,Canada,Canada,,,,163.5,48.9,24.5,8.5
+01-004-01,10/1/2019,9/1/2009,,9/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,150,45.9,33,8.333333333
+01-005-01,10/8/2019,11/1/2005,,8/1/2008,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Greece,Greece,,,,159.4,62.3,35,9.566666667
+01-006-01,10/8/2019,3/1/2008,Female,8/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,155.5,61.1,73,8.166666667
+01-007-01,10/8/2019,9/1/2006,,11/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,162,56.1,69,8.4
+01-008-01,10/15/2019,11/1/2006,,8/1/2008,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Haiti,Haiti,,,,162.2,66.9,75,8.566666667
+01-009-01,10/15/2019,2/1/2006,,3/1/2008,,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,"food allergies: hazelnut, blueberries, cabbage",171.2,54.9,39,7.433333333
+01-010-01,10/15/2019,3/1/2005,,10/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,China,China,China,China,,excema,,169.6,60.5,54,5.233333333
+01-011-01,10/15/2019,3/1/2005,,1/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,hypothyroidism,,,156.3,65.5,45,7.5
+01-012-01,10/15/2019,3/1/2002,,1/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,184,69.6,65,7.1
+01-013-01,10/15/2019,4/1/2012,,5/1/2016,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Greece,Canada,,,,129.8,29.9,20,7.733333333
+01-014-01,10/22/2019,10/1/2003,,3/1/2006,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Poland,Trinidad and Tobago,Trinidad and Tobago,,,,175.4,67,53,7.833333333
+01-015-01,10/22/2019,2/1/2002,,5/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Iraq,Iraq,Iraq,Iran,,,,181.6,62.3,45,7.3
+01-016-01,10/22/2019,6/1/2007,,7/1/2008,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Albania,Albania,Albania,Albania,,,,151.9,37.7,32,9.966666667
+01-017-01,10/22/2019,9/1/2001,,8/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,United Kingdom (UK),hypothyroidism,,allergies,169,76.2,92,6.466666667
+01-018-01,10/22/2019,5/1/2005,,5/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,intolerance Penicillin,168.5,61.2,35,6.633333333
+01-019-01,11/5/2019,7/1/2008,,7/1/2015,No,No,Yes,Checked,Checked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,149.2,34.1,26,10.4
+01-020-01,11/5/2019,7/1/2002,,8/1/2009,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Romania,Romania,Romania,Romania,,,,167.5,68.1,160,9.433333333
+01-021-01,11/5/2019,8/1/2006,,3/1/2011,,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,149.1,43.7,48,8.266666667
+01-021-02,11/5/2019,12/1/1971,,1/1/1981,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,"chronic pancreatitis, hypothyroidism",,Raynaud's phenomenon,156.4,53,30,8.6
+01-022-01,11/12/2019,12/1/2014,,9/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,104.5,18.4,6.9,7.666666667
+01-023-01,11/12/2019,4/1/2003,,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Greece,Greece,,,,151.4,48.8,13,6.7
+01-024-01,11/12/2019,7/1/2013,,9/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Brazil,Brazil,Brazil,Brazil,,,,121.4,24.5,6,7.733333333
+01-025-01,11/19/2019,10/1/2008,,6/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Denmark,,,ADHD (2017),157.5,40.9,50,9.066666667
+01-026-01,11/19/2019,12/1/2001,,1/1/2004,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Canada,Canada,Canada,,,food allergies (2001),158.7,47.4,57,7.3
+01-027-01,11/19/2019,2/1/2012,,7/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Cameroon,Cameroon,Cameroon,Cameroon,,,,131.6,34.7,30,10.83333333
+01-028-01,11/26/2019,5/1/2008,,6/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,152.3,46.9,40,8.5
+01-029-01,11/26/2019,10/1/2011,,10/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Vietnam,Vietnam,Vietnam,Vietnam,,,,124.9,26.9,10,9
+01-030-01,11/26/2019,12/1/2005,,9/1/2007,Yes,Yes,No,Checked,Checked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Checked,Morocco,Morocco,Morocco,Morocco,,,,160.4,51.6,70,8.9
+01-031-01,12/3/2019,10/1/2010,,7/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,137.6,36,44,8.7
+01-032-01,12/3/2019,6/1/2002,,7/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Allergies,174.5,64.5,60,8.3
+01-033-01,1/14/2020,11/1/2001,,7/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Germany,Saint Lucia,,,,155.3,62.4,60,6.733333333
+01-034-01,1/21/2020,7/1/2007,,1/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,anxiety,153,39.9,30,7.2
+01-035-01,1/28/2020,3/1/2008,,10/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,160,45.3,28,10.76666667
+01-036-01,2/4/2020,4/1/2013,,9/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,124,25,20,9.266666667
+01-037-01,2/18/2020,2/1/2002,,7/1/2003,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Jamaica,Jamaica,,,,165,94.6,100,9.5
+01-038-01,2/18/2020,5/1/2010,,11/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,130,28.2,18,8.466666667
+01-039-01,2/18/2020,10/1/2002,,12/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,,,180,100.3,96,10.66666667
+01-040-01,2/18/2020,2/1/2010,,6/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,135.4,29.1,12,10.23333333
+01-041-01,2/25/2020,12/1/2010,,11/1/2012,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,United States of America (USA),Canada,Canada,,,,142,33.1,35,8.4
+01-042-01,3/10/2020,11/1/2011,,7/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,France,France,,,,121.4,24,19,8.166666667
+01-043-01,3/10/2020,9/1/2003,,3/1/2012,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,158.2,97.9,115,7.933333333
+01-044-01,9/8/2020,8/8/2011,,6/30/2020,Yes,No,No,Checked,Checked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,143.8,29.9,11,8.3
+01-044-04,11/26/2020,12/1/2005,,5/1/2009,Yes,No,No,Checked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,174,55.5,25,7.066666667
+01-045-01,10/20/2020,5/4/2007,,4/1/2019,No,Yes,No,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Canada,Canada,Canada,Canada,,,,167,87,30,5.733333333
+01-046-01,11/3/2020,5/1/2010,,5/1/2011,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,136.8,36.4,45,10
+01-047-01,11/10/2020,4/1/2003,,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Greece,Greece,,,,152.7,51.8,25,6.866666667
+01-048-01,11/17/2020,5/1/1980,,5/1/1998,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,172,65.4,29,6.5
+01-049-01,11/24/2020,10/1/2011,,10/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Vietnam,Vietnam,Vietnam,Vietnam,,,,131,29.3,18,8.7
+01-050-01,11/24/2020,5/1/2016,,7/1/2020,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Canada,Canada,Canada,,,neuroblastoma July 2018,110.5,27,8,5.7
+01-051-01,12/15/2020,5/1/2012,,4/1/2019,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Cameroon,Cameroon,Russia,Russia,,,,128.5,25.9,10,5.9
+01-052-01,1/12/2021,2/1/2006,,4/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,severe allergy to cats,160.5,59.8,78,7.166666667
+01-053-01,1/12/2021,12/1/2003,,5/1/2007,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,158.8,58.6,56,8
+01-053-04,1/12/2021,12/1/2003,,11/1/2007,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,156,57.1,53,7.6
+01-054-01,1/19/2021,1/1/2005,,12/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Croatia,Canada,Croatia,Croatia,,,"Allergies to pistachio, walnut, cashews",186.6,76.1,50,8.233333333
+01-055-01,2/2/2021,2/1/2003,,9/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Raynaud's syndrome (2015),179.2,68.5,50,8.433333333
+01-056-01,2/2/2021,2/1/2003,,5/1/2006,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,France,France,,,,170.1,65.1,62,8.666666667
+01-057-01,2/9/2021,4/1/2012,,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Guinea,Guinea,Guinea,Guinea,,,,130.2,30,20,8.233333333
+01-058-01,2/23/2021,5/1/2008,,6/1/2020,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,156.6,48.7,30,7.3
+01-059-01,3/9/2021,5/1/2011,,11/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,147.5,35.6,17,7.233333333
+01-060-01,3/9/2021,6/1/2011,,6/1/2019,No,No,Yes,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Italy,Italy,,,,135.5,28.8,23,9
+01-061-01,3/9/2021,10/1/2015,,7/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,113,20.6,17,8.533333333
+01-062-01,3/23/2021,4/1/2009,,8/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Italy,Italy,,,,154,47.7,53,11.13333333
+01-063-01,3/23/2021,4/1/2007,,5/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Lebanon,Lebanon,,,,165.8,81.9,90,9.8
+01-064-01,3/23/2021,9/1/2009,,10/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Japan,Japan,Canada,Canada,,,,140.7,37.4,20,7.033333333
+01-065-01,4/6/2021,7/1/2009,,6/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,155.8,54.5,50,7.1
+01-066-01,4/6/2021,1/1/2012,,10/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United States of America (USA),United States of America (USA),Poland,Poland,,,,132.8,26.7,15,7.35
+01-067-01,4/13/2021,2/1/2011,,3/1/2012,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,143,37.6,30,7.833333333
+01-067-04,4/13/2021,2/1/2011,,8/1/2017,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,141.2,35.2,30,8.933333333
+01-068-01,4/20/2021,1/1/2003,,2/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,168.5,55.7,27,7.033333333
+01-069-01,4/20/2021,4/1/2009,,2/1/2013,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,155.9,65.7,60,7.866666667
+01-070-01,5/11/2021,6/1/2005,,9/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,acne,,174.2,81.9,140,8.733333333
+01-071-01,5/18/2021,5/1/2019,,12/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,85,13.6,8,8.733333333
+01-072-01,5/18/2021,10/1/2016,Male,5/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,106.3,17.2,4,8.05
+01-073-01,5/18/2021,5/1/2013,,12/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,124,27.5,20,9.133333333
+01-074-01,6/1/2021,3/1/2004,,9/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Italy,Italy,,,,166.9,67.9,80,9.2
+01-075-01,6/8/2021,10/1/2008,,3/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,United States of America (USA),United States of America (USA),,,gluten allergy (2017),162.7,45.8,37,7.066666667
+01-076-01,6/8/2021,1/1/2009,,3/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Netherlands,Mexico,Canada,Canada,,,"Penicillin allergy, lactose intolerance",164.8,46,50,7.266666667
+01-077-01,6/8/2021,10/1/2008,,10/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Portugal,Portugal,,,,148.2,53.1,50,8.2
+01-078-01,6/8/2021,3/1/2013,,6/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Italy,Italy,,,allergy to penicillin,135.4,32.1,16,8.7
+01-079-01,6/15/2021,4/1/2004,,3/1/2019,No,Yes,No,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Egypt,Greece,Egypt,,,ADHD,174.8,69.3,46,7.8
+01-079-02,6/15/2021,12/1/1977,,2/1/1998,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Egypt,Cyprus,,,hypertension,168.6,68,45,7.566666667
+01-080-01,6/15/2021,9/1/2008,,3/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,China,China,China,China,hypothyroidism,,,163.5,51.4,52,7.566666667
+01-081-01,6/22/2021,6/1/2008,,3/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,167.4,65,20,7.4
+01-082-01,6/22/2021,1/1/2008,,3/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,153.9,42.3,47,9.233333333
+01-083-01,9/14/2021,1/1/2012,,7/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,140.9,29.8,18,8.9
+01-084-01,9/21/2021,8/1/2006,,2/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ghana,Ghana,Ghana,Ghana,,eczema,seafood allergy (suspected),166.4,70.4,60,9.9
+01-085-01,9/21/2021,7/1/2006,,7/1/2008,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Portugal,Portugal,,,,155.4,75.4,106,10.06666667
+01-086-01,9/21/2021,3/1/2009,,4/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Cuba,Cuba,,,,150.2,40.9,16,8.05
+01-087-01,9/28/2021,12/1/2007,,3/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Lebanon,,,,165,87.4,120,9.8
+01-088-01,9/28/2021,3/1/2009,,10/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Canada,Canada,,,,159.2,46.9,43,5.833333333
+01-089-01,10/5/2021,6/1/2007,,3/1/2011,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Russia,Russia,Morocco,Morocco,,,,152.2,60.1,46,7.366666667
+01-090-01,10/5/2021,5/1/2005,,12/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Italy,United States of America (USA),,,,180.5,61.2,50,6.866666667
+01-091-01,10/5/2021,9/1/2005,,11/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Antigua and Barbuda,Antigua and Barbuda,Canada,Canada,,eczema,allergies,176.2,66.8,55,7.666666667
+01-092-01,10/18/2021,10/1/1979,,11/1/1991,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Germany,France,France,,,,169.2,56.7,25,6.266666667
+01-093-01,10/19/2021,12/1/2008,,11/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Unknown,Unknown,,,,154.1,52.1,35,8.266666667
+01-094-01,10/19/2021,7/1/2011,,10/1/2018,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Israel,Israel,Israel,Canada,,,,155.3,46.9,38,9.366666667
+01-095-01,10/19/2021,11/1/2011,,7/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,France,France,,,,129.9,27.9,20,7.8
+01-096-01,10/19/2021,2/1/2011,,5/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Guyana,Germany,,,,151.9,40.9,30,15.65
+01-097-01,10/26/2021,8/1/2013,,3/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,United States of America (USA),Canada,,,,135.2,26.6,16,8.633333333
+01-098-01,11/2/2021,1/1/2012,,8/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,139.8,31.5,18,6.7
+01-099-01,11/16/2021,1/1/2004,,1/1/2013,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Ukraine,Ukraine,,,allergies,183.6,77.9,102,7.433333333
+01-100-01,12/7/2021,1/1/2005,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Severe anxiety,167.7,71,28,9.6
+01-101-01,12/7/2021,11/1/2004,,3/1/2017,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,168.2,116.2,150,9.033333333
+01-102-01,12/7/2021,2/1/2004,,7/1/2006,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Portugal,Portugal,,psoriasis,amoxil allergy,177,64.7,52,7.233333333
+01-103-01,12/14/2021,3/1/2004,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,178.4,71.8,30,5.5
+01-104-01,12/14/2021,8/1/2006,,10/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,"vitiligo, acne","allergy, pennicillin",164.1,51.8,34,9.166666667
+01-105-01,2/22/2022,11/1/2003,,11/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Canada,Italy,Italy,,,,180.5,72.9,37.5,5.966666667
+01-106-01,3/1/2022,6/1/2004,,4/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,China,China,,,,168,56.8,40,7.433333333
+01-107-01,3/8/2022,3/1/2017,,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Canada,Canada,Canada,,,,112.5,20.8,5,7.7
+01-108-01,3/15/2022,2/1/2005,,9/1/2019,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,171.6,71.6,65,8.166666667
+01-109-01,3/22/2022,9/1/2008,,6/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ireland,Ireland,Canada,Canada,,,,166,49.2,30,7.733333333
+01-110-01,3/29/2022,2/1/2006,,12/1/2019,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Checked,Peru,Peru,Peru,Peru,,,Autism,171.8,63,0,9.966666667
+01-111-01,3/29/2022,12/1/2004,,1/1/2013,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Canada,Canada,,,"Anxiety, ADD, STD",159,67.7,75,10.63333333
+01-112-01,3/29/2022,5/1/2011,,1/1/2022,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,150.5,68,35,9.6
+01-112-04,3/29/2022,5/1/2011,,4/1/2021,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,153,64.5,40,9.066666667
+01-112-05,3/29/2022,7/1/2008,,9/1/2021,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,liver stenosis,162.3,107.2,36,8.266666667
+01-113-01,3/29/2022,5/1/2011,,6/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Brazil,Brazil,Brazil,Brazil,,,,138.7,32.5,24,6.9
+01-114-01,4/5/2022,10/1/2006,,8/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Anemia,159,61.4,75,7.533333333
+01-115-01,4/12/2022,5/1/2006,,12/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,169.5,55.2,40,6.8
+01-116-01,4/26/2022,3/1/2008,,10/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Italy,Canada,,,,159.8,60.1,60,7.933333333
+01-117-01,5/3/2022,5/1/2009,,8/1/2016,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,152,63.8,70,9.266666667
+01-118-01,5/3/2022,4/1/2013,,5/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Dominican Republic,Dominican Republic,El Salvador,El Salvador,,,,147.8,35.9,30,8.766666667
+01-119-01,5/10/2022,12/1/2009,,5/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,147.5,43.8,32,7.7
+01-120-01,5/10/2022,8/1/2006,,6/1/2016,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,167.5,67.7,87.5,6.766666667
+01-121-01,5/10/2022,3/1/2014,,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,127,28.5,17.5,6.6
+01-122-01,5/17/2022,10/1/2010,,4/1/2019,No,Yes,Yes,Checked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Portugal,Portugal,Canada,Canada,,,,158,61.3,88,10.43333333
+01-123-01,5/17/2022,3/1/2012,,5/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Pakistan,Pakistan,Pakistan,Pakistan,,,,139.4,28.9,30,10.9
+01-124-01,5/17/2022,5/1/2013,,4/1/2020,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,137.7,40.7,18,8.933333333
+01-125-01,5/17/2022,8/1/2005,,12/1/2016,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,174.5,70.5,40,9.233333333
+01-126-01,5/17/2022,10/1/2007,,5/1/2009,No,No,Yes,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,"severe allergies to many plants, cats, insects",160,55.3,120,8.433333333
+01-127-01,5/24/2022,10/1/2007,,8/1/2020,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,161.5,62.2,30,9.266666667
+01-128-01,5/31/2022,6/1/2004,,12/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Portugal,Portugal,hypothyroidism,,,178,79.9,68,10.1
+01-129-01,5/31/2022,2/1/2011,,1/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Syria,,,,147.5,46.9,52.5,8.5
+01-130-01,5/31/2022,3/1/2004,,9/1/2007,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Italy,Italy,,,,151,59.6,58,8.466666667
+01-131-01,5/31/2022,2/1/2009,,3/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,173.8,50.4,25,7.666666667
+01-132-01,6/7/2022,1/1/2008,,2/1/2016,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,"Anxiety and food allergies to : shrimps, peanuts, sesame, hazelnuts.",153.7,41.8,35,8.833333333
+01-133-01,6/7/2022,6/1/2008,,12/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,180,136.6,130,8.633333333
+01-134-01,6/7/2022,1/1/2009,,9/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Vietnam,Vietnam,,,,155.3,59.8,60,7.8
+01-135-01,6/7/2022,3/1/2005,,1/1/2008,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Croatia,Croatia,,,,168.3,66.4,47.5,6.133333333
+01-136-01,6/7/2022,5/1/2005,,5/1/2007,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,China,China,,,,156.1,56.1,47,7.1
+01-137-01,6/14/2022,11/1/2005,,10/1/2021,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Unknown,Unknown,,,,178.8,69.9,11,7.066666667
+01-138-01,7/12/2022,5/1/2006,,11/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,183,62.8,42,11.13333333
+01-139-01,7/12/2022,10/1/2007,,6/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,Canada,Italy,Italy,,,,160,48.7,90,9.666666667
+01-140-01,7/12/2022,8/1/2013,,1/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Syria,,,,130.9,27.9,26,7.4
+01-141-01,12/5/2023,2/1/2010,Male,6/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Colombia,Colombia,Colombia,Dominican Republic,,,,168.6,65.3,60,9.033333333
+01-142-01,7/26/2022,3/1/2001,,8/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,156.8,89.6,60,7.033333333
+01-143-01,6/14/2022,8/1/2010,Male,2/1/2019,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,Morocco,Morocco,,,cavernomas,167,55.7,42.5,8.766666667
+01-143-04,6/14/2022,3/1/2012,Female,9/1/2016,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,Morocco,Morocco,,,,162,52.2,52,9.233333333
+01-144-01,6/14/2022,,,,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,,,,0
+01-144-04,6/14/2022,,,,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,,,,0
+01-145-01,6/14/2022,5/1/2013,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Guyana,Guyana,Canada,Canada,,,,135.3,32,12,5.9
+01-146-01,6/21/2022,4/1/2007,Male,4/1/2010,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,175.8,61.3,60,8.4
+01-147-01,7/26/2022,3/1/2008,,12/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Cuba,Cuba,,,,167.4,59.2,75,6.933333333
+01-148-01,8/9/2022,9/1/2013,,5/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,133.3,28.5,25,0
+01-149-01,8/9/2022,8/1/2013,,4/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,128.2,26,18,7.2
+01-150-01,8/9/2022,2/1/2007,,2/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Romania,Canada,Canada,,,Multiple allergies,172.3,66.1,70,6.966666667
+01-151-01,8/16/2022,7/1/2006,,6/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,178.5,65.5,40,7.133333333
+01-152-01,8/16/2022,11/1/2004,,11/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,Light hypothyroidism,,,163,58.2,53,6.666666667
+01-153-01,8/16/2022,3/1/2010,,10/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Gilles de la Tourette Syndrome,139.3,32.2,25,12.13333333
+01-154-01,8/23/2022,10/1/2013,,8/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Autism,136.9,29.4,20,7.733333333
+01-155-01,8/23/2022,5/1/2008,,6/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Brazil,Brazil,Brazil,Brazil,,,,176,69.2,58,7.666666667
+01-156-01,8/30/2022,5/1/2016,,7/1/2020,No,No,Yes,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,115.7,19.3,15,7.833333333
+01-156-03,4/4/2023,6/1/1979,Male,6/1/2013,No,Yes,No,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,Hypercholesterolemia,172,68.1,4,0
+01-157-01,8/30/2022,1/1/2006,,11/1/2021,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Cuba,Cuba,Cuba,Cuba,,,,164.4,65,17,9.35
+01-158-01,9/6/2022,7/1/2007,,5/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Germany,Germany,Germany,Germany,,,,172,60.3,38,6.833333333
+01-159-01,9/20/2022,5/1/2007,,3/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,162.2,61.5,58,7.233333333
+01-160-01,9/20/2022,4/1/2005,,8/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Colombia,Colombia,Colombia,Colombia,,,,167.3,65.1,41,6.9
+01-161-01,9/20/2022,5/1/2009,,4/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,165.9,49.1,40,7.633333333
+01-162-01,9/27/2022,11/1/2010,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Belgium,Belgium,Belgium,Belgium,,,,157.5,58.7,32,7.433333333
+01-163-01,9/27/2022,4/1/2010,,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Canada,Canada,Canada,,,,144.7,39.3,42,9.866666667
+01-164-01,9/27/2022,10/1/2006,,10/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,Lebanon,Lebanon,,,,163.3,82.7,85,4.9
+01-165-01,10/4/2022,2/1/2016,,1/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,117.1,22.5,14,7.6
+01-166-01,10/4/2022,9/1/2013,,6/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,138.9,29.6,24,6.166666667
+01-167-01,10/11/2022,7/1/2006,,10/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Autism,174.5,104.7,73,9.4
+01-168-01,10/11/2022,6/1/2014,,7/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Greece,Greece,,,,134.6,32.8,19,6.766666667
+01-169-01,10/18/2022,12/1/2009,,11/1/2012,No,Yes,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Romania,Romania,Morocco,Morocco,,,,143,49.9,65,11.16666667
+01-170-01,10/18/2022,4/1/2012,,10/1/2016,No,Yes,No,Unchecked,Checked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Canada,Canada,,,,139.5,42,42,11.1
+01-170-02,10/18/2022,12/1/1987,,1/1/1998,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Portugal,Portugal,,,"allergies to Biaxin, empracet, oranges",153,46.3,60,11.53333333
+01-171-01,10/25/2022,8/1/2009,,6/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Norway,Norway,Canada,France,,,,168.2,56.1,25,6.933333333
+01-172-01,10/25/2022,1/1/2018,,8/1/2019,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Trinidad and Tobago,Trinidad and Tobago,Canada,Canada,,,,113.2,20.7,14,7.566666667
+01-173-01,10/25/2022,4/1/2009,,9/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,165.7,69.1,50,9.833333333
+01-174-01,11/1/2022,10/1/2009,,2/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,154.4,61.4,70,6.333333333
+01-175-01,11/1/2022,1/1/2011,,9/1/2017,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,China,China,China,China,,,,151.6,36.6,27,6.8
+01-176-01,11/1/2022,10/1/2009,,5/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,157,47,34,6.6
+01-177-01,11/1/2022,9/1/2012,,2/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,134,32.6,10,8.8
+01-178-01,11/1/2022,5/1/2012,,10/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Philippines,Philippines,,,,145.5,44.5,47,7.333333333
+01-179-01,11/1/2022,12/1/2008,,12/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Pakistan,Pakistan,Pakistan,Pakistan,,,,157.1,73.3,92,8.1
+01-180-01,11/1/2022,6/1/2006,,7/1/2008,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,United Kingdom (UK),Canada,,,Allergies,190.3,75.5,77,7.066666667
+01-181-01,11/1/2022,6/1/2008,,3/1/2009,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,145.8,44.1,30,10.13333333
+01-181-03,11/1/2022,5/1/1985,,4/1/1997,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,173.4,92.1,56,0
+01-182-01,11/1/2022,11/1/2006,,6/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,165.2,66.7,50,7.033333333
+01-183-01,11/1/2022,6/1/2005,,8/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,170.8,91,80,7.166666667
+01-184-01,11/8/2022,5/1/2005,,10/1/2011,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Azerbaijan,Russia,Ukraine,Uzbekistan,,,Speech disorder,192,124,135,8.266666667
+01-185-01,11/8/2022,8/1/2010,,8/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,145.5,38.6,12,5.9
+01-186-01,11/8/2022,4/1/2014,,10/1/2021,No,Unknown,Unknown,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Unknown,Unknown,Canada,,,,128.8,26.3,18,8.866666667
+01-187-01,11/8/2022,7/1/2009,,8/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,France,Morocco,Morocco,,,,145.7,36.8,17,8.966666667
+01-188-01,11/8/2022,6/1/2018,,5/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Tunisia,Tunisia,,,,105.5,16.8,5,7.2
+01-189-01,11/15/2022,11/1/2005,,11/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,China,China,China,China,,,,176.3,59.9,69,7.35
+01-190-01,11/22/2022,11/1/2014,,12/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Iran,Haiti,Poland,,,,133.7,35.1,30,5.8
+01-191-01,11/22/2022,11/1/2019,,5/1/2021,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,88,14.1,12,9.7
+01-191-04,11/22/2022,7/1/2014,,4/1/2022,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,132.2,28.4,18,10.6
+01-192-01,11/22/2022,9/1/2009,,1/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Unknown,Unknown,Canada,,,,154.2,58.4,47,8.9
+01-193-01,11/22/2022,7/1/2010,,10/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Autism,161.2,50.9,60,9.066666667
+01-194-01,11/22/2022,12/1/2016,,9/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,117.5,22,7,7
+01-195-01,11/22/2022,11/1/2006,,11/1/2018,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,161.8,73.5,70,7.5
+01-196-01,11/22/2022,5/1/2013,,6/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Portugal,Portugal,,,,137.4,33,29,8.6
+01-197-01,11/22/2022,6/1/2014,,1/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Philippines,Philippines,Philippines,Philippines,,,Beckwith-Wiedemann syndrome,133.1,43.2,38,7.8
+01-198-01,11/22/2022,2/1/2010,,8/1/2017,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Uruguay,Uruguay,Venezuela,Venezuela,,,,157.1,55.8,25,10.5
+01-199-01,11/29/2022,8/1/2011,,6/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Unknown,Central African Republic (CAR),,,ADHD,145,32.9,32,12.7
+01-200-01,11/29/2022,2/1/2019,,4/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,101.2,15,15,9.1
+01-201-01,11/29/2022,6/1/2007,,1/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ukraine,Moldova,Moldova,Moldova,,necrobiosis lipoidica,"anxiety, depression",161.2,66.4,98,9.6
+01-202-01,11/29/2022,9/1/2008,,4/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Pakistan,Pakistan,Pakistan,Pakistan,,,,172,58.1,85,9.133333333
+01-203-01,12/6/2022,2/1/2015,,4/1/2021,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,,,,130.9,26.8,22,8.7
+01-204-01,12/6/2022,7/1/2008,,8/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,Pakistan,India,India,,,,171,49.9,40,8.85
+01-205-01,12/6/2022,6/1/2009,,8/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Tunisia,Tunisia,Tunisia,Tunisia,,,,155.6,57.5,33,6.3
+01-206-01,12/6/2022,12/1/2016,,1/1/2020,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,117.9,24.7,11,6.633333333
+01-207-01,12/13/2022,12/1/2004,,12/1/2013,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United States of America (USA),United States of America (USA),Canada,Canada,,,"Social Anxiety, Arthritis",175.2,111.5,158,9.433333333
+01-208-01,12/13/2022,11/1/2012,,11/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Hungary,Canada,,Eczema,Allergies  (dogs + seasonal allergies),133,36.8,30,8.7
+01-209-01,12/13/2022,11/1/2010,,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Penicillin Allergy,153.9,48.4,60,7.866666667
+01-210-01,12/13/2022,2/1/2010,,9/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Croatia,United States of America (USA),Canada,,,Penicillin Allergy and Repeating Otitis (tubes),165.9,57.7,45,6.3
+01-211-01,12/13/2022,8/1/2011,,1/1/2015,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,153.6,51.2,35,6.833333333
+01-212-01,12/13/2022,3/1/2005,,3/1/2010,No,Yes,No,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Italy,Canada,,,,180.8,81.9,100,7.9
+01-213-01,12/13/2022,8/1/2010,,8/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,154.1,66.7,74,7.566666667
+01-214-01,12/20/2022,9/1/2005,,4/1/2008,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,Japan,Japan,,,Autism,169.5,53.6,48,7.333333333
+01-215-01,12/20/2022,5/1/2005,,3/1/2012,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,Lebanon,Lebanon,,,ADHD and Dyslexia,170.8,97.2,110,7.566666667
+01-216-01,12/20/2022,11/1/2016,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,116.8,21.2,15,7.1
+01-217-01,1/10/2023,1/1/2011,,2/1/2013,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,Allergy,155,39.8,45,7.433333333
+01-218-01,1/10/2023,2/1/2007,,9/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Italy,Canada,Canada,,,,162.2,54.6,55,11.7
+01-219-01,1/17/2023,7/1/2010,,1/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Italy,Latvia,United Kingdom (UK),,,Intracranial hypertension,138.7,32.8,32,9.266666667
+01-220-01,1/17/2023,10/1/2010,,2/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Iran,Iran,Canada,Canada,,,,151.1,44.5,30,5.7
+01-221-01,1/17/2023,5/1/2009,,4/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,174.9,57.4,60,13.83333333
+01-222-01,1/24/2023,8/1/2008,,3/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Peru,Peru,Peru,Peru,,,,169.5,58.1,42,6.1
+01-223-01,1/31/2023,10/1/2009,,7/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,162.2,48.3,43,7.8
+01-224-01,1/31/2023,11/1/2012,,10/1/2019,No,No,Yes,Checked,Checked,Unchecked,Unchecked,Checked,Checked,Unchecked,Unchecked,Tunisia,Tunisia,Tunisia,Tunisia,,,,132.2,33.4,5,6.5
+01-225-01,1/31/2023,2/1/2008,,2/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,152,43.3,65,8.433333333
+01-226-01,2/7/2023,12/1/2018,,5/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,eczema,,109,19.3,15,8.8
+01-227-01,2/21/2023,11/1/2018,Male,5/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ukraine,Ukraine,Ukraine,Ukraine,,,,101,16.9,11,7.666666667
+01-228-01,2/21/2023,8/1/2013,Male,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,France,France,,,,146.7,48.8,55,11.6
+01-229-01,2/21/2023,10/1/2015,,12/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,129.9,30.7,12,0
+01-230-01,2/28/2023,10/1/2016,,9/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,Autism,131,30,22,8.3
+01-231-01,3/14/2023,10/1/2010,Male,12/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Portugal,Portugal,,,Shrimp intolerance,161.1,56.7,75,10.36666667
+01-232-01,3/14/2023,1/1/2014,,6/1/2016,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Australia,Canada,Israel,United States of America (USA),,,,132.8,28,17,6.466666667
+01-233-01,3/14/2023,4/1/2013,Male,2/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Syria,,,,137.2,32.4,27,7.3
+01-234-01,3/21/2023,9/1/2014,Male,5/1/2022,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,,,,0
+01-235-01,3/21/2023,5/1/2008,Female,8/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Chile,Chile,Chile,Chile,,,,155.4,84.9,99,10.96666667
+01-236-01,3/21/2023,5/1/2014,Female,8/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Chile,Chile,Canada,Canada,,,,135.8,30,13,0
+01-237-01,3/21/2023,8/1/2009,Male,7/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),Liberia,Trinidad and Tobago,Trinidad and Tobago,,,,171.2,58.4,42.5,6.6
+01-238-01,3/21/2023,9/1/2015,Female,3/1/2019,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Pakistan,Pakistan,Pakistan,Pakistan,,,,138.6,30.2,28,8.433333333
+01-239-01,4/4/2023,1/1/2008,Male,5/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,167.8,57.6,70,10.76666667
+01-240-01,4/11/2023,3/1/2007,Male,3/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,"allergies (legumes, soy)",170.9,67,55,7.566666667
+01-241-01,4/11/2023,8/1/2009,Female,2/1/2010,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Canada,Canada,,,,159.9,80.4,45,7.666666667
+01-242-01,4/11/2023,12/1/2006,Male,11/1/2012,No,No,Yes,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Checked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,162.7,60.2,20,7.866666667
+01-243-01,4/18/2023,3/1/2014,Male,10/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Canada,,,,135.4,26.3,13,9.133333333
+01-244-01,4/18/2023,11/1/2016,Male,1/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,119.9,23.1,25,8.033333333
+01-245-01,4/18/2023,2/1/2014,Male,1/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Romania,Romania,Moldova,Moldova,,,,133.3,29.5,17.5,6.133333333
+01-246-01,5/2/2023,12/1/2011,Male,3/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Austria,,,,153.4,76.9,95,7.7
+01-247-01,5/2/2023,10/1/2008,Male,7/1/2022,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,China,China,China,China,,,,178.5,72.6,51,6.9
+01-248-01,5/2/2023,10/1/2009,Male,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,158.3,49.6,40,7.333333333
+01-249-01,5/2/2023,5/1/2012,Female,9/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Canada,Canada,Canada,,,,151.2,53,52,8.166666667
+01-250-01,5/2/2023,5/1/2007,Male,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,United Kingdom (UK),Germany,,,,175.5,52.9,30,6.3
+01-251-01,5/9/2023,2/1/2015,Male,9/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,Canada,Canada,,,,138,38.6,32,11.16666667
+01-252-01,5/16/2023,7/1/2006,Male,6/1/2016,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Moldova,Moldova,Moldova,Moldova,,,,171,64.6,50,6.1
+01-253-01,5/23/2023,2/1/2011,Female,5/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Guyana,Germany,,,,159,47.4,60,7.7
+01-254-01,5/23/2023,10/1/2007,Female,2/1/2014,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,155.2,65.3,133,9
+01-254-03,5/23/2023,9/1/1985,Male,2/1/1987,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Unknown,Canada,,,ADHD,164.6,59.3,47,7.3
+01-255-01,5/30/2023,10/1/2017,Male,4/1/2020,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,113.6,21.8,18,7.366666667
+01-256-01,5/30/2023,1/1/2012,Male,11/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Canada,Unknown,Canada,,,"ADHD, penicillin allergy",153.4,35.9,10,7.7
+01-257-01,5/30/2023,3/1/2005,Female,5/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Canada,Morocco,Morocco,,,,166.4,67.5,60,8.066666667
+01-258-01,5/30/2023,11/1/2007,Male,12/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,167.4,61.6,50,8.866666667
+01-259-01,5/30/2023,,,,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,,,,0
+01-260-01,6/13/2023,8/1/2021,Male,1/1/2023,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Israel,Iraq,Canada,Canada,,,,81.5,14.2,10,10.96666667
+01-261-01,6/13/2023,5/1/2011,Female,11/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Mexico,Mexico,Mexico,Mexico,,,,152.6,47.6,45,6.9
+01-262-01,6/13/2023,9/1/2019,Female,2/1/2023,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,98,16.2,10.5,0
+01-262-04,6/13/2023,6/1/2013,Female,2/1/2020,Yes,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,141.6,37.7,23,8.166666667
+01-263-01,6/13/2023,1/1/2009,Male,12/1/2013,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Palestine,Palestine,Morocco,Morocco,,,,163.9,68.5,65,8.666666667
+01-264-01,6/20/2023,8/1/2014,Male,8/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,eye infections and allergies to cats and penecillin (suspected),140.9,38.4,30,11.4
+01-265-01,6/27/2023,11/1/2007,Female,2/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Cuba,Cuba,Italy,Italy,,,,157,56.8,50,8.433333333
+01-266-01,6/27/2023,10/1/2005,Female,11/1/2013,Yes,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Poland,Romania,Morocco,Canada,,,,168,78.4,55,8.333333333
+01-267-01,7/4/2023,12/1/2007,Male,4/1/2009,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Syria,,,,169.7,105.8,40,10.8
+01-268-01,7/4/2023,3/1/2004,Male,10/1/2016,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Italy,Italy,,,,167.8,64.5,70,8.8
+01-269-01,7/4/2023,8/1/2008,Male,6/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Hungary,Canada,,,,175.6,72.6,72.5,7.933333333
+01-270-01,7/11/2023,5/1/2009,Male,10/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,170.7,53.6,50,7.4
+01-271-01,7/11/2023,7/1/2008,Male,10/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,157.1,47,37.5,7.733333333
+01-272-01,7/11/2023,1/1/2010,Female,12/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,159.9,64.5,65,7.766666667
+01-273-01,7/11/2023,7/1/2010,Female,2/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,161.2,57,30,7.4
+01-274-01,7/18/2023,5/1/2005,Male,11/1/2013,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,El Salvador,El Salvador,Honduras,Honduras,,,Dysphasia,171.5,75.3,125,8.166666667
+01-275-01,7/18/2023,1/1/2012,Male,11/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United States of America (USA),United States of America (USA),Poland,Poland,,,,145.8,32.1,30,6.166666667
+01-276-01,7/18/2023,10/1/2007,Female,9/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Senegal,Senegal,Senegal,Senegal,,Eczema,,162.6,59,30,8.533333333
+01-277-01,7/25/2023,4/1/2015,Female,2/1/2022,,No,Unknown,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Unknown,Haiti,Mexico,,,,135.5,25.6,22,11.53333333
+01-278-01,7/25/2023,10/1/2006,Female,8/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United States of America (USA),United States of America (USA),Canada,Canada,,,,164.8,65.4,30,7.5
+01-279-01,7/25/2023,12/1/2013,Male,10/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,El Salvador,El Salvador,Mexico,Mexico,,,,146.5,65,60,10.66666667
+01-280-01,8/1/2023,2/1/2009,Male,10/1/2010,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Haiti,Haiti,,,"Allergies (nuts, peanuts)",170,55.3,50,11.56666667
+01-281-01,8/8/2023,12/1/2006,Male,8/1/2016,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,allergy: fish,177.4,72.5,99,12.26666667
+01-282-01,8/8/2023,6/1/2015,Female,4/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Canada,Canada,,,,138.9,34.5,28,10.93333333
+01-283-01,8/15/2023,2/1/2008,Female,6/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,Vietnam,Vietnam,,,,159.5,61.6,50,8.766666667
+01-284-01,8/15/2023,5/1/2007,Female,5/1/2018,,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),United Kingdom (UK),Canada,Canada,,,,152.4,51.8,46,7.666666667
+01-285-01,8/15/2023,2/1/2019,Male,10/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Canada,Italy,,,,106.4,19.5,18,8.3
+01-286-01,8/15/2023,8/1/2014,Female,4/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,145,38.7,22,6.966666667
+01-287-01,8/15/2023,11/1/2005,Male,3/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Croatia,Slovenia,,,,188.5,78.7,60,6.633333333
+01-288-01,8/15/2023,3/1/2018,Female,10/1/2022,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Sri Lanka,Sri Lanka,Philippines,Philippines,,,,117.7,22.4,22,7.766666667
+01-289-01,8/22/2023,10/1/2012,Female,10/1/2022,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,,137.3,27.2,23,6.4
+01-290-01,8/22/2023,1/1/2008,Female,1/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,159.7,52.2,48,7.8
+01-291-01,8/22/2023,7/1/2013,Female,7/1/2021,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,150.3,37.9,25,7.366666667
+01-292-01,8/22/2023,7/1/2016,Female,6/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,,137.4,39.7,46,9.2
+01-293-01,8/29/2023,2/1/2012,Male,9/1/2015,No,Yes,Yes,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,146.4,45.6,36,7.733333333
+01-293-02,8/29/2023,1/1/1990,Female,2/1/1996,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,159.9,57.7,32,0
+01-294-01,8/29/2023,7/1/2006,Female,8/1/2015,No,Yes,Yes,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Jamaica,Jamaica,Jamaica,Jamaica,,,,149.7,61.3,180,13.23333333
+01-295-01,9/5/2023,5/1/2010,Male,6/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Italy,,,,170.5,58.3,60,9.766666667
+01-296-01,9/12/2023,10/1/2012,Male,6/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Pakistan,Pakistan,Pakistan,Pakistan,,,,157,36.7,30,7.8
+01-297-01,9/12/2023,8/1/2005,Male,8/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,180.5,85.8,80,7.1
+01-298-01,9/12/2023,5/1/2004,Male,6/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Germany,Germany,,,,183.7,63.6,50,10.76666667
+01-299-01,9/12/2023,6/1/2010,Male,7/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),Canada,Canada,Canada,,,,169.5,48.8,13,8.7
+01-300-01,9/19/2023,6/1/2010,Female,8/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,155.1,59.1,15,6.866666667
+01-301-01,9/26/2023,9/1/2019,Male,10/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Tunisia,Tunisia,Tunisia,Tunisia,,,,105.1,18.5,7,0
+01-302-01,9/26/2023,10/1/2014,Male,9/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Belarus,Belarus,Belarus,Belarus,,,,143,34.3,21.5,7.566666667
+01-303-01,9/26/2023,8/1/2012,Male,11/1/2022,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,152.7,43.5,28,8.366666667
+01-304-01,9/26/2023,3/1/2010,Male,6/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,165.5,56.3,60,7.3
+01-305-01,9/26/2023,3/1/2013,Male,1/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,142.9,31.1,29.5,8.2
+01-306-01,10/3/2023,5/1/2014,Male,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,132.5,25.4,30,7.733333333
+01-307-01,10/3/2023,10/1/2008,Male,8/1/2023,No,Yes,No,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Jamaica,Jamaica,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,,,175,97.3,0,11.9
+01-308-01,10/3/2023,5/1/2013,Female,4/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Nigeria,Nigeria,Nigeria,Nigeria,,,,154,47.7,52,8.1
+01-309-01,10/3/2023,4/1/2008,Female,5/1/2017,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,154.8,57.9,50,8.4
+01-309-04,7/9/2024,8/1/1999,Male,8/1/2001,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,172.2,76.3,60,9.2
+01-310-01,10/3/2023,9/1/2018,Male,4/1/2021,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Tunisia,Tunisia,Tunisia,Tunisia,,,,117.6,24.8,25,8.2
+01-311-01,10/10/2023,5/1/2006,Female,2/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Jamaica,Jamaica,Canada,Canada,,,,155.2,60.1,64,7.833333333
+01-312-01,10/10/2023,1/1/2020,Female,5/1/2023,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,102,16.9,13,10.3
+01-313-01,10/10/2023,2/1/2010,Female,5/1/2012,,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),United Kingdom (UK),Canada,Canada,,,Celiac Disease,158.2,62.3,65,9.433333333
+01-314-01,10/10/2023,1/1/2013,Female,4/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,150,48.1,48,8.333333333
+01-315-01,10/17/2023,6/1/2013,Female,10/1/2022,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,141.1,33.9,11,7.033333333
+01-315-04,10/17/2023,2/1/2019,Female,1/1/2023,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,112.9,23.2,11,7.6
+01-316-01,10/24/2023,10/1/2013,Male,5/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Spain,Morocco,Canada,Canada,,,penicillin allergy,147.4,39.8,25,8.133333333
+01-317-01,10/24/2023,10/1/2014,Female,11/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Italy,Italy,,,,146.3,37.3,29,10.1
+01-318-01,10/24/2023,9/1/2012,Male,10/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,144,34.5,20.5,8.466666667
+01-319-01,10/24/2023,12/1/2011,Male,12/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),United Kingdom (UK),Romania,Romania,,,,148.2,38.7,27,7.9
+01-320-01,10/24/2023,6/1/2010,Female,6/1/2021,No,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,166.4,64.7,106,11.76666667
+01-321-01,10/31/2023,1/1/2015,Female,1/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,penicillin allergy,136.6,33.9,23,8.5
+01-322-01,11/7/2023,8/1/2017,Female,7/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Syria,Lebanon,,,"Allergy to eggs, walnuts, pecans",114,19.7,15,6.3
+01-323-01,11/7/2023,5/1/2011,Female,10/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,,147.3,47,32.5,10.66666667
+01-324-01,11/14/2023,4/1/2017,Male,9/1/2023,,Yes,No,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Checked,Unchecked,Unchecked,Brazil,Brazil,Brazil,Brazil,,,,122,21.7,3,7.3
+01-325-01,11/14/2023,4/1/2020,Male,8/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Greece,Canada,,,,104.5,17.2,16,10.13333333
+01-326-01,11/14/2023,1/1/2009,Male,7/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Syria,Syria,Syria,Syria,,,,166.4,58.9,21.5,7.433333333
+01-327-01,11/21/2023,12/1/2009,Female,7/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Trinidad and Tobago,Trinidad and Tobago,,,,166,59.2,75,7.2
+01-328-01,11/21/2023,3/1/2013,Male,6/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,111,29.1,20.5,7.966666667
+01-329-01,11/21/2023,7/1/2009,Male,11/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Tunisia,Tunisia,Tunisia,Tunisia,,,,161.6,51.3,40,9.733333333
+01-330-01,11/28/2023,7/1/2012,Female,8/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,151.6,54.5,22,6.9
+01-331-01,11/28/2023,3/1/2009,Male,5/1/2023,,No,Yes,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,France,Spain,Cyprus,United States of America (USA),,,allergy to penicillin,169.6,62.8,40,8
+01-332-01,11/28/2023,2/1/2012,Female,9/1/2016,No,Yes,No,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,,168,66.8,62.5,8.766666667
+01-333-01,11/28/2023,4/1/2012,Female,10/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,149.9,40,27.5,7.833333333
+01-334-01,11/28/2023,2/1/2010,Female,11/1/2020,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Cuba,Cuba,Canada,Canada,,,,160.5,66.5,85,7.5
+01-334-04,11/28/2023,1/1/2008,Female,3/1/2020,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Cuba,Cuba,Canada,Canada,,,,159.9,75,141,6.85
+01-335-01,12/5/2023,12/1/2013,Male,3/1/2023,No,No,Yes,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,136.4,38.1,40,11.25
+01-336-01,12/5/2023,7/1/2009,Female,4/1/2022,No,No,Yes,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Vietnam,Vietnam,,,,153.3,42,61,12.23333333
+01-337-01,12/12/2023,3/1/2016,Male,12/1/2020,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,127.7,27.3,22,7.2
+01-337-04,6/11/2024,6/1/2014,Male,11/1/2018,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,132.9,28.4,18,6.766666667
+01-338-01,12/19/2023,9/1/2010,Female,12/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,Graves disease,,,176.9,57.5,66,7.133333333
+01-339-01,12/19/2023,9/1/2008,Female,4/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United States of America (USA),Dominican Republic,El Salvador,El Salvador,,,,157,60.6,57,11.4
+01-340-01,1/9/2024,1/1/2009,Male,2/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Canada,Canada,,,,174.1,58.6,90,13.4
+01-341-01,1/9/2024,3/1/2007,Female,8/1/2015,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Portugal,Portugal,Brazil,Brazil,,,,161.4,65.8,42.7,6.6
+01-342-01,1/9/2024,8/1/2019,Female,11/1/2023,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,Lebanon,Lebanon,,,amoxicillin allergy,111.3,17.6,5,8.7
+01-343-01,1/16/2024,1/1/2008,Male,4/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,180.3,77.6,60,8.066666667
+01-344-01,1/16/2024,10/1/2010,Female,4/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,South Korea,South Korea,South Korea,South Korea,,,,157,58.5,56,8.166666667
+01-345-01,1/23/2024,1/1/2010,Male,11/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Lebanon,Lebanon,United States of America (USA),Morocco,,,,170.4,91.2,75,8.7
+01-346-01,1/23/2024,4/1/2013,Male,8/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,144.4,41.2,24,8.6
+01-347-01,1/30/2024,5/1/2019,Female,6/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,111.2,20.3,14,8.433333333
+01-348-01,1/30/2024,11/1/2011,Male,11/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,167.4,54.3,30,8.2
+01-349-01,1/30/2024,8/1/2006,Male,2/1/2011,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,179.3,69.4,50,8.833333333
+01-350-01,1/30/2024,10/1/2009,Female,9/1/2020,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,France,France,hypothyroidism,,,166.9,69,37,7.466666667
+01-351-01,2/6/2024,7/1/2020,Female,8/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Canada,Canada,,,,100.9,16.1,6.5,9.7
+01-352-01,2/6/2024,4/1/2006,Female,9/1/2014,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Peru,Peru,Peru,Peru,,,,158,53.4,69,9.8
+01-353-01,2/6/2024,12/1/2015,Female,5/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Poland,Morocco,Canada,,,,141.7,31.8,24,10.1
+01-354-01,2/6/2024,5/1/2009,Female,10/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Iraq,Iraq,Iraq,Iraq,,,,156.1,63.7,50,10.23333333
+01-355-01,2/13/2024,7/1/2007,Male,5/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,184.6,70.9,32.5,8.7
+01-356-01,2/20/2024,12/1/2008,Male,1/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),Canada,Canada,Colombia,,,,166.3,56.6,55,6.333333333
+01-357-01,2/20/2024,1/1/2015,Female,12/1/2023,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,145.5,45.9,12,0
+01-358-01,2/20/2024,11/1/2011,Female,5/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Italy,Italy,,,,154.4,36.7,35,8.55
+01-359-01,2/20/2024,2/1/2009,Male,12/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Germany,Germany,Canada,Canada,,,,175.1,55.4,26,9.1
+01-360-01,2/20/2024,9/1/2008,Male,1/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Jamaica,Jamaica,Canada,Canada,,,,174,53.9,63,13.76666667
+01-361-01,2/27/2024,7/1/2016,Female,7/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Afghanistan,Afghanistan,Afghanistan,Afghanistan,,,,122.9,20.1,12,7.966666667
+01-362-01,2/27/2024,3/1/2012,Male,7/1/2021,No,No,Yes,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,154.9,42.3,26.6,7.733333333
+01-363-01,3/5/2024,5/1/2014,Male,1/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Iran,Iran,,,,140.2,47,38,8.433333333
+01-364-01,3/5/2024,10/1/2014,Female,3/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,139.1,30.2,22.5,8.7
+01-365-01,3/5/2024,9/1/2006,Female,2/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Canada,Canada,,,,160.6,53,52,11.4
+01-366-01,3/12/2024,6/1/2014,Male,8/1/2019,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ukraine,Ukraine,Ukraine,Ukraine,,,,130.5,28.3,24,7.8
+01-367-01,3/26/2024,7/1/2017,Male,11/1/2023,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,123.4,23.1,13,8.6
+01-368-01,3/26/2024,7/1/2016,Male,12/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,126.5,26.7,20,7.7
+01-369-01,3/26/2024,7/1/2014,Male,2/1/2019,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Iran,Iran,Iran,Iran,,,favism,144.3,51.7,54.5,5.6
+01-370-01,3/26/2024,10/1/2018,Male,10/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,111.1,19,9,6.85
+01-371-01,4/2/2024,4/1/2014,Female,2/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,143.3,38.4,37.5,0
+01-372-01,4/2/2024,11/1/2011,Male,1/1/2024,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,,,,9
+01-373-01,4/9/2024,11/1/2008,Male,2/1/2013,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,187.4,68.3,85,7.033333333
+01-374-01,4/9/2024,9/1/2016,Female,2/1/2020,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,119.3,22.2,18,10.66666667
+01-374-04,4/9/2024,9/1/2018,Female,2/1/2020,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,99.9,15.4,11,10.2
+01-375-01,4/9/2024,6/1/2009,Male,2/1/2021,,,,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,,,,,,,,165.8,47.5,,10.83333333
+01-376-01,4/16/2024,4/1/2009,Male,2/1/2023,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Iraq,Iraq,Iraq,Iraq,,,,169.4,67.7,65,7.566666667
+01-377-01,4/16/2024,9/1/2015,Female,3/1/2023,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,,,,128.6,33.1,21,8
+01-378-01,4/16/2024,8/1/2011,Male,4/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Barbados,Barbados,Canada,United Kingdom (UK),,,nuts allergy.,174.2,55.8,35,7.3
+01-379-01,4/23/2024,12/1/2013,Male,3/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,142.4,37.4,30.5,9.166666667
+01-380-01,4/23/2024,9/1/2012,Female,12/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,seasonal allergy,165.9,73.2,56,7.466666667
+01-381-01,4/23/2024,8/1/2009,Male,1/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,171,64.2,40,11.7
+01-382-01,4/23/2024,2/1/2010,Male,1/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,166.5,56.1,50,8.6
+01-383-01,4/30/2024,3/1/2006,Female,6/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Philippines,Philippines,Italy,Italy,,,,156,62.3,60,7.233333333
+01-384-01,5/7/2024,6/1/2011,Male,6/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,149.8,45,43.5,11.6
+01-385-01,5/7/2024,2/1/2009,Male,4/1/2013,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,Hypothyroidism,,,172,76.3,85,9.2
+01-386-01,5/7/2024,3/1/2006,Male,3/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,184,83.3,65,9.733333333
+01-387-01,5/7/2024,11/1/2007,Female,2/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,170.5,82.1,68,7.566666667
+01-388-01,5/7/2024,5/1/2008,Male,3/1/2014,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Greece,Greece,Canada,Germany,,,,181,121.2,103,7.6
+01-389-01,5/14/2024,2/1/2008,Female,6/1/2016,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Haiti,Haiti,,,,152.2,56.9,45,10.2
+01-390-01,5/21/2024,1/1/2007,Female,12/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Bulgaria,Bulgaria,Bulgaria,Bulgaria,,,,148.7,55.7,42,0
+01-391-01,5/14/2024,10/1/2006,Male,7/1/2021,No,No,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,166.8,89.1,90,9.6
+01-392-01,5/21/2024,11/1/2011,Female,1/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Finland,Canada,Canada,,,peanut allergy,149.6,37.2,22.5,8.533333333
+01-393-01,5/28/2024,12/1/2014,Female,9/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,France,France,France,France,,,,134.4,31,15,6.866666667
+01-394-01,6/4/2024,4/1/2021,Female,1/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,France,Canada,Ireland,,,,97.8,15.1,7.5,8.633333333
+01-395-01,6/4/2024,3/1/2006,Female,6/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Fish allergy. ,151.6,53.7,90,6.4
+01-396-01,6/4/2024,7/1/2015,Male,9/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Egypt,Egypt,Egypt,Egypt,,,,132.4,29.9,22.5,9.9
+01-397-01,6/11/2024,5/1/2014,Female,12/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Senegal,Senegal,Senegal,Senegal,,,,143.7,30.7,30,10.33333333
+01-398-01,6/11/2024,11/1/2012,Female,6/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,United Kingdom (UK),United Kingdom (UK),Canada,Canada,,,,145.6,35.7,22.5,8.3
+01-399-01,6/18/2024,10/1/2011,Male,7/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Seasonal allergies,150.3,43.8,25,7.7
+01-400-01,6/18/2024,5/1/2020,Female,5/1/2024,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Morocco,Morocco,,,,109,19.1,10,8.6
+01-401-01,6/18/2024,9/1/2008,Male,8/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,172,82.4,30,14.5
+01-402-01,6/18/2024,5/1/2010,Male,10/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,Allergy Penicillin,169.4,56.8,27.5,8.4
+01-403-01,6/25/2024,8/1/2006,Male,9/1/2019,Yes,No,No,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Iraq,Israel,,,,177.9,97.3,55,7.733333333
+01-403-04,6/25/2024,8/1/2006,Male,3/1/2016,Yes,No,No,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Morocco,Morocco,Iraq,Israel,,,seasonal allergy,178.3,80,40,7.933333333
+01-404-01,6/25/2024,2/1/2008,Female,10/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,170.3,55.5,57,9.5
+01-405-01,7/2/2024,8/1/2010,Male,3/1/2024,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,156,37.2,8.2,9.266666667
+01-405-04,7/2/2024,5/1/2013,Female,1/1/2017,Yes,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Checked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,149.7,35.8,8,9.066666667
+01-406-01,7/2/2024,10/1/2013,Male,2/1/2020,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Georgia,Georgia,Ukraine,Ukraine,,,Down syndrome,128,31.5,23,10.23333333
+01-407-01,7/2/2024,12/1/2006,Female,12/1/2014,No,Yes,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,ADHD,161.2,58.9,38,7.933333333
+01-408-01,7/9/2024,12/1/2014,Male,1/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Ireland,Canada,Canada,Canada,,,peanut allergy,143,43.5,14,7.7
+01-409-01,7/9/2024,11/1/2014,Male,12/1/2017,No,Yes,Yes,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Haiti,Haiti,Haiti,Haiti,,,,137.4,31.4,29,7.266666667
+01-410-01,7/30/2024,12/1/2008,Female,11/1/2017,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Italy,Italy,Unknown,Unknown,,,,157.7,61,50,7.933333333
+01-411-01,7/30/2024,1/1/2017,Male,7/1/2018,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,126.5,33.9,31,9
+01-412-01,8/13/2024,1/1/2013,Female,4/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,India,India,India,India,,,,154.2,43.3,28,7.5
+01-413-01,8/20/2024,3/1/2008,Male,2/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Lebanon,Lebanon,,,,181.1,58.4,19,7.55
+01-414-01,8/27/2024,1/1/2011,Female,7/1/2024,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,161.6,48.5,16,11.9
+01-415-01,9/3/2024,10/1/2017,Male,6/1/2022,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Brazil,Brazil,Brazil,Brazil,,,,116,21.7,21,7.866666667
+01-416-01,9/3/2024,10/1/2012,Female,2/1/2022,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Peru,Peru,,,,156.9,55.5,57,8.433333333
+01-417-01,9/10/2024,2/1/2009,Male,5/1/2011,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Unknown,Unknown,Unknown,,,,165.9,69.6,58,7.833333333
+01-418-01,9/17/2024,4/1/2012,Male,8/1/2021,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Guyana,Canada,,,,160,50.7,65,6.633333333
+01-419-01,9/24/2024,2/1/2007,Female,12/1/2020,,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,"Borderline personality disorder, bipolar disorder",163.6,47.4,30,9.233333333
+01-420-01,9/24/2024,1/1/2012,Female,12/1/2022,No,No,Yes,Checked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unknown,Unknown,Unknown,Unknown,,,,158.4,49.5,73.5,9.9
+01-421-01,9/24/2024,6/1/2017,Male,7/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Algeria,Algeria,Algeria,Algeria,,,,116.5,21,14,9.466666667
+01-422-01,10/1/2024,9/1/2014,Female,7/1/2023,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Saint Lucia,Saint Lucia,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,,,158.4,83.6,60,7.866666667
+01-423-01,10/8/2024,5/1/2009,Male,2/1/2012,No,No,No,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Unchecked,Canada,Canada,Canada,Canada,,,,175.9,68.7,100,7.633333333
