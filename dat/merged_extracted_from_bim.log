@@ -1,0 +1,32 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --make-bed
+  --merge-list /mnt/g/projects/ADDAM/Data/TopMed/merge_list.txt
+  --out /mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim
+
+Hostname: DESKTOP-5D62HOC
+Working directory: /mnt/c/Per/LaiJiang/Project/ADDAM/Kathleen/TopMed/scr
+Start time: Mon Mar 10 16:22:28 2025
+
+Random number seed: 1741638148
+3521 MB RAM detected; reserving 1760 MB for main workspace.
+Performing single-pass merge (205 people, 41 variants).
+Merged fileset written to
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim-merge.bed +
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim-merge.bim +
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim-merge.fam .
+41 variants loaded from .bim file.
+205 people (0 males, 0 females, 205 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 205 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.988578.
+41 variants and 205 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to /mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim.bed +
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim.bim +
+/mnt/g/projects/ADDAM/Data/TopMed/merged_extracted_from_bim.fam ... done.
+
+End time: Mon Mar 10 16:22:28 2025
